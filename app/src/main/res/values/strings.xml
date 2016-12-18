@@ -2,4 +2,18 @@
     <string name="app_name">GradeCalculator</string>
     <string name="individualCalcButton">Individual Course Calculator</string>
     <string name="gpaCalculator">Grade Point Average Calculator</string>
+    <string name="calculateText">Calculate!</string>
+    <string name="termworkText">Term Work</string>
+    <string name="midtermText">MidTerm</string>
+    <string name="finalText">Final</string>
+    <string name="enteramarkEditText">Assignment grade</string>
+    <string name="entermidmarkText">Midterm grade</string>
+    <string name="enterweightText">Weight %</string>
+    <string name="enterfinmarkText">Final Grade</string>
+    <string name="assignmentText">Assignment</string>
+    <string name="weightText">Weight</string>
+    <string name="addmarkText">+</string>
+    <string name="removeText">-</string>
+    <string name="markText">Grade</string>
+    <string name="sidtermText">Midterm</string>
 </resources>
