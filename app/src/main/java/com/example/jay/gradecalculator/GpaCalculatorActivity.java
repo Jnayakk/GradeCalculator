@@ -9,6 +9,6 @@ public class GpaCalculatorActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_gpa_calculator);
-        setTitle("GPA Calculators");
+        setTitle("GPA Calculator");
     }
 }
