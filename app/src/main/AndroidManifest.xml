@@ -17,7 +17,9 @@
         </activity>
         <activity android:name=".MainActivity" />
         <activity android:name=".IndividualCourseActivity" />
-        <activity android:name=".GpaCalculatorActivity"></activity>
+        <activity android:name=".GpaCalculatorActivity" />
+        <activity android:name=".CourseResultsActivity" />
+        <activity android:name=".GpaResultsActivity"></activity>
     </application>
 
 </manifest>
