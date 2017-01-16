@@ -2,7 +2,7 @@
 An android application that allows students from the University of Toronto to calculate their grades in an individual course or their overall GPA.
 
 ## Description
-The UofT Grade Calculator Android app helps students calculate their grades easily. Students can either calculate their grades in any individual course by entering their assignment, midterm and final exam marks or they can calculate their overall grade point average by entering each course with their grades and their corresponding course weights. The GPA in this application based on the University of Toronto Grade Point Average scale which ranges from 0.00 (an F) to 4.00 (an A – A+). Below are some screen shots from the Grade Calculator App.
+The UofT Grade Calculator Android app helps students calculate their grades easily. Students can either calculate their grades in any individual course by entering their assignment, midterm and final exam marks or they can calculate their overall grade point average by entering each course with their grades and their corresponding course weights. The grade point values in this application based on the University of Toronto Grade Point Average scale which ranges from 0.00 (an F) to 4.00 (an A – A+). Below are some screen shots from the Grade Calculator App.
 
 ### Launch Screen:
 ![introactivity](https://cloud.githubusercontent.com/assets/24378046/21971695/0edbad82-db81-11e6-99ff-67a6f004d9d0.png)
